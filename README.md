@@ -2,6 +2,7 @@
 An iOS gym tracking app to progressively overload when training.
 
 Project done as a IB Computer Science Internal Assessment
+
 Utilizes SwiftUI and SQLite
 
 Instructions:
